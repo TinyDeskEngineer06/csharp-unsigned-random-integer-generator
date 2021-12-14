@@ -1,0 +1,8 @@
+C:\Users\Tristan\source\repos\URandom\bin\Release\netcoreapp3.1\URandom.deps.json
+C:\Users\Tristan\source\repos\URandom\bin\Release\netcoreapp3.1\URandom.dll
+C:\Users\Tristan\source\repos\URandom\bin\Release\netcoreapp3.1\URandom.pdb
+C:\Users\Tristan\source\repos\URandom\obj\Release\netcoreapp3.1\URandom.AssemblyInfoInputs.cache
+C:\Users\Tristan\source\repos\URandom\obj\Release\netcoreapp3.1\URandom.AssemblyInfo.cs
+C:\Users\Tristan\source\repos\URandom\obj\Release\netcoreapp3.1\URandom.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\URandom\obj\Release\netcoreapp3.1\URandom.dll
+C:\Users\Tristan\source\repos\URandom\obj\Release\netcoreapp3.1\URandom.pdb
